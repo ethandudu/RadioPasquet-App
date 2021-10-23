@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Radio Pasquet</string>
+    <string name="title_activity_loading_screen">LoadingScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="content_desc">Image</string>
+</resources>
