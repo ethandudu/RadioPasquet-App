@@ -13,4 +13,7 @@
     <color name="light_blue_A400">#FF00B0FF</color>
     <color name="black_overlay">#66000000</color>
     <color name="bleu_radio">#1E88E5</color>
+    <color name="bleuf_radio">#BA1E88E5</color>
+    <color name="greyple">#99AAB5</color>
+    <color name="discord_dark">#36393F</color>
 </resources>
