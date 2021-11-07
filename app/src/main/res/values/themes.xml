@@ -4,7 +4,7 @@
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/bleu_radio</item>
         <item name="colorPrimaryVariant">@color/bleu_radio</item>
-        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnPrimary">@color/bleu_radio</item>
         <item name="android:navigationBarColor">@color/bleu_radio</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
